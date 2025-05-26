@@ -8,6 +8,11 @@ This is a Python-based Telegram bot that forwards files from one Telegram group 
 - Handles duplicate files by deleting them from the target groups.
 - Includes rate-limiting to avoid Telegram's flood wait errors.
 
+## Versioning
+
+This project uses semantic versioning. The current version is "0.1.0".
+The version information can be found in the `__version__` variable in the `forward_file.py` script.
+
 ## Requirements
 
 Make sure you have the following installed:
